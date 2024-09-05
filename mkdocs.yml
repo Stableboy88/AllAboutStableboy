@@ -26,7 +26,7 @@ theme:
         name: Switch to light mode    
       primary: teal
       accent: lime
-
+ 
 plugins:
   - social:
       enabled: !ENV [CI, false]

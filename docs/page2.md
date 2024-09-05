@@ -8,7 +8,7 @@ Some `code` goes here.
 
 ### Plain codeblock
 
-A plain codeblock:
+A plain codeblock: 
 
 ```
 Some code here

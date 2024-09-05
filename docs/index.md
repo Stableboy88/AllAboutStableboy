@@ -17,7 +17,7 @@ Glad to see everyone here and feel free to follow my [Github](https://github.com
 #### Senior Project: Simulation of Exciton Diffusion in Organic Solar Cell
 ● Simulated the effects of adding a harvesting layer, which raised energy harvesting efficiency from 2% to 10%
 
-## Work Experience
+## Work Experience 
 
 ### Index Living Mall (Retail) --- ( Jun 2024 - Present )
 #### SAP Developer (full-time)
